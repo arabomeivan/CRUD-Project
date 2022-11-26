@@ -134,7 +134,6 @@
 
             <q-card-actions align="right" class="text-primary">
               <q-btn flat label="Cancel" v-close-popup />
-              <q-btn flat label="Add address" v-close-popup />
             </q-card-actions>
           </q-card>
         </q-dialog>
